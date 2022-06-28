@@ -1,2 +1,2 @@
 # PDF-Password-Cracker
-A Python script to Crack any locked PDF password
+A Python script to Crack any locked PDF file
